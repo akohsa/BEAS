@@ -3,7 +3,7 @@ Blockchain Enabled Asynchronous and Secure Federated Machine Learning
 
 ## Default Network Configuration:
 
-The application uses the sample network 'basic-network' which bootstraps the following instances:
+The default application uses the HyperLedger Test network which bootstraps the following instances:
 
 1. 1 Orderer
 2. 1 Certifying Authority
